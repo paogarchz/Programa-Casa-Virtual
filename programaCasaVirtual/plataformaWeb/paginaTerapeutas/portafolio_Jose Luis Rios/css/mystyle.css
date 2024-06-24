@@ -1,0 +1,22 @@
+.foto1 { 
+    padding: 2px; 
+    margin: 5px; 
+    float: right; 
+    width: 100px; 
+}
+.barra{
+	
+	width: 100%;
+    height: 100px;
+    background-color:#651E6E;
+    top: 0;
+    z-index: 4;
+}
+
+.colorm { 
+    color: #651E6E;
+}
+
+.colora { 
+    color: #F2B705;
+}
